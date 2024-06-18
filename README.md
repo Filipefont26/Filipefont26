@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Filipe Fontoura</h1>
 <h3 align="center">Atualmente estudando e buscando habilidades para novas vagas</h3>
 
-- 🤝 Aprendendo **Html, Css,Js ,Angular**
+- 🤝 Aprendendo **HTML, CSS, JS , ANGULAR**
 
 - 📫 você me acha **filipefontouramaia@gmail.com**
 
