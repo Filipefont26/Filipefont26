@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Filipe Fontoura</h1>
-<h3 align="center">Atualmente estudando e procurando me aprimorar para novas vagas</h3>
+<h3 align="center">Atualmente estudando e me aprimorarando para novas vagas</h3>
 
 - 🤝 Aprendendo **HTML, CSS. JS. ANGULAR**
 
