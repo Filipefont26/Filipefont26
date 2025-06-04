@@ -1,7 +1,7 @@
 <h1 align="center">oi, eu sou Filipe Fontoura</h1>
-<h3 align="center">atualmente estudando e me aprimorando para novas vagas</h3>
+<h3 align="center">analista de dados </h3>
 
-- 🤝 competências **HTML, CSS,JS, SQL, PYTHON, BI**
+- 🤝 competências ** SQL, PYTHON, BI**
 
 - 📫voçe me acha **filipefontouramaia@gmail.com**
 
