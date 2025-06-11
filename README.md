@@ -1,11 +1,11 @@
 <h1 align="center">OI,MEU NOME É FILIPE FONTOURA</h1>
-<h3 align="center">eu sou o Filipe Fontoura Sou Analista de Dados, apaixonado por transformar dados em insights valiosos para apoiar decisões estratégicas. Trabalho com coleta, limpeza, análise e visualização de dados, sempre buscando gerar valor através de soluções baseadas em evidências.</h3>
+<h3 align="center"> Sou Analista de Dados, apaixonado por transformar dados em insights valiosos para apoiar decisões estratégicas. Trabalho com coleta, limpeza, análise e visualização de dados, sempre buscando gerar valor através de soluções baseadas em evidências.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipefont26&label=Profile%20views&color=0e75b6&style=flat" alt="filipefont26" /> </p>
 
 - 💬 Habilidades **PYTHON, SQL, POWERBI, EXCEL**
 
-- 📫 How to reach me **filipefontouramaia@gmail.com**
+- 📫 Contato **filipefontouramaia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
