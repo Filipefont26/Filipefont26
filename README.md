@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipefont26&label=Profile%20views&color=0e75b6&style=flat" alt="filipefont26" /> </p>
 
-- 💬 Habilidades **PYTHON, SQL, POWERBI, EXCEL**
+- 💬 Habilidades **PYTHON, SQL, POWERBI, EXCEL,GCP,TABLEAU,BIGQUERY,FABRIC**
 
 - 📫 Contato **filipefontouramaia@gmail.com**
 
